@@ -11,3 +11,4 @@ Goal vs Pledged GB Musicals chart
   'Depicts a few trends in Goal and Pledged data. 
     'The Goal data shows there is a Mean around £4,000. In GB you should try and get your msuical produced for under £4,000.
     'The Pledged data shows at least 25% didn't pledge any amount. Half of the campaign goals are under £2,000, which is slightly over the 3rd quartile for amounts pledged.
+---
